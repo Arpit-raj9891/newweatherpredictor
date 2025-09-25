@@ -1,8 +1,7 @@
-pandas
-numpy
-scikit-learn
-streamlit
-plotly
-geopy
-meteostat
-requests
+streamlit==1.50.0
+pandas==2.3.2
+numpy==2.3.3
+scikit-learn==1.3.2
+plotly==5.18.0
+meteostat==1.7.1
+requests==2.32.5
